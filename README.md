@@ -1,4 +1,4 @@
-# exemplo Prototipo Figma:
+# Exemplo Prototipo Figma:
 
 
 Link/ Image:
