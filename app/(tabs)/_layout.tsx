@@ -9,7 +9,6 @@ export default function TabLayout() {
       <Text style={styles.title}>Projeto André</Text>
       <Tabs>
         <Tabs.Screen name='index' options={{headerShown: false, tabBarIcon: () => (<Text>👀</Text>)}}></Tabs.Screen>
-        <Tabs.Screen name='register' options={{headerShown: false, tabBarIcon: () => (<Text>🏡</Text>)}}></Tabs.Screen>
         <Tabs.Screen name='list' options={{headerShown: false, tabBarIcon: () => (<Text>💩</Text>)}}></Tabs.Screen>
       </Tabs>
     </>

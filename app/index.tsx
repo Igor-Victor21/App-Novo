@@ -16,10 +16,6 @@ export default function HomeScreen() {
             <TouchableOpacity onPress={onPress}>
                 <Text style={styles.btnText}>Saiba mais</Text>
             </TouchableOpacity>
-
-            <View>
-                <Link style={styles.btn} href={"/+not-found"}>LINK</Link>
-            </View>
         </SafeAreaView>
         </>
     )
